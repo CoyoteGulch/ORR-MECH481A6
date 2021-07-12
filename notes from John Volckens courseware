@@ -1,0 +1,13 @@
+slice() to return certain rows
+
+Use the syntax package::function to call a function explicitly if you are using two packages that have the same function names.
+
+Tidying data tutorial: https://stat2labs.sites.grinnell.edu/Handouts/rtutorials/IntroTidyData.html
+
+Chapter 3: Getting and Cleaning Data
+
+Cleaning data functions: rename(), filter(), select(), mutate(), str_to_lower(), mutate(), unique()
+
+Section 3.6 explains piping
+
+Section 3.7.x explains Markdown and RMarkdown
